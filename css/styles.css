@@ -47,7 +47,7 @@ nav ul li{
 }
 #orders{
  display:block;
- background-color:black;
+ background-color:white;
  color: aliceblue;
 }
 .button{
@@ -65,4 +65,5 @@ p{
 }
 form{
     display: none;
+    color: black;
 }
