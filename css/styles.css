@@ -67,3 +67,6 @@ form{
     display: none;
     color: black;
 }
+.break, .lunch, .dinner{
+    color:black;
+}
